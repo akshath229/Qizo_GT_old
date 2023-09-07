@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295463146365",
+    "firebase_url": "https://otpverification-17b2c.firebaseio.com",
+    "project_id": "otpverification-17b2c",
+    "storage_bucket": "otpverification-17b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295463146365:android:e02132af10fa3f005f3214",
+        "android_client_info": {
+          "package_name": "com.example.ErpAapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295463146365-mn067g485094d6vaac808ijtho0j96fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6foCe7Nk-Ex-NoZOgV2EN4ovyzdHbuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295463146365-mn067g485094d6vaac808ijtho0j96fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
